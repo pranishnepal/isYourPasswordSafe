@@ -7,7 +7,5 @@ python3 password_checker.py
 
 ## Dependencies
 <ul>
-  <li> getpass </li>
   <li> colorama </li>
-  <li> requests </li>
 </ul>
