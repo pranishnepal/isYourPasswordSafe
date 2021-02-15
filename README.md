@@ -1,1 +1,13 @@
 # isYourPasswordSafe
+
+isYourPasswordSafe is a terminal Python program that asks users for their password and checks if their password has breached before
+
+## Usage
+python3 password_checker.py
+
+## Dependencies
+<ul>
+  <li> getpass </li>
+  <li> colorama </li>
+  <li> requests </li>
+</ul>
