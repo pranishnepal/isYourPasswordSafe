@@ -3,7 +3,7 @@
 isYourPasswordSafe is a terminal Python program that asks users for their password and checks if their password has breached before
 
 ## Usage
-python3 password_checker.py
+On terminal: python3 password_checker.py
 
 ## Dependencies
 <ul>
